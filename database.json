@@ -1,0 +1,144 @@
+{
+  "catalog": [
+    {
+      "type": "internship",
+      "title": "Google STEP Internship",
+      "org": "Google",
+      "deadline": "15 Jul 2026",
+      "tags": ["Internship", "Software", "Remote"],
+      "description": "A student-focused software engineering internship with mentorship, coding projects, and interview preparation."
+    },
+    {
+      "type": "internship",
+      "title": "Microsoft Learn Student Ambassador",
+      "org": "Microsoft",
+      "deadline": "30 Jun 2026",
+      "tags": ["Internship", "Cloud", "Online"],
+      "description": "Build technical communities, host workshops, and grow Azure, AI, and developer advocacy skills."
+    },
+    {
+      "type": "scholarship",
+      "title": "AWS AI & ML Scholarship",
+      "org": "Amazon Web Services",
+      "deadline": "20 Jul 2026",
+      "tags": ["Scholarship", "AI", "Machine Learning"],
+      "description": "Covers AI learning tracks, project work, and mentorship for students building machine learning foundations."
+    },
+    {
+      "type": "scholarship",
+      "title": "Women in STEM Grant",
+      "org": "STEMBridge Partners",
+      "deadline": "5 Aug 2026",
+      "tags": ["Scholarship", "Women in STEM", "College"],
+      "description": "Funding and mentor matching for women pursuing computing, engineering, mathematics, or science programs."
+    },
+    {
+      "type": "roadmap",
+      "title": "Roadmap to Data Scientist",
+      "org": "STEMBridge",
+      "deadline": "Self paced",
+      "tags": ["Roadmap", "Python", "Data Science"],
+      "description": "A step-by-step path covering Python, statistics, SQL, machine learning projects, portfolios, and interviews."
+    },
+    {
+      "type": "roadmap",
+      "title": "Frontend Developer Roadmap",
+      "org": "STEMBridge",
+      "deadline": "Self paced",
+      "tags": ["Roadmap", "Web", "Projects"],
+      "description": "Learn HTML, CSS, JavaScript, accessibility, React basics, design systems, and deployment through projects."
+    },
+    {
+      "type": "mentorship",
+      "title": "AI Career Mentor Match",
+      "org": "STEMBridge Mentors",
+      "deadline": "Open now",
+      "tags": ["Mentorship", "AI", "Career"],
+      "description": "Connect with mentors who can review your roadmap, projects, resume, and internship application plan."
+    },
+    {
+      "type": "mentorship",
+      "title": "Open Source Mentor Circle",
+      "org": "GirlScript Foundation",
+      "deadline": "10 Jul 2026",
+      "tags": ["Mentorship", "Open Source", "Community"],
+      "description": "Small-group guidance for choosing issues, making first pull requests, and preparing for summer programs."
+    },
+    {
+      "type": "resource",
+      "title": "Machine Learning Starter Kit",
+      "org": "STEMBridge Library",
+      "deadline": "Available now",
+      "tags": ["Resource", "Machine Learning", "Beginner"],
+      "description": "Curated courses, notebooks, datasets, and project prompts for students starting machine learning."
+    },
+    {
+      "type": "resource",
+      "title": "Scholarship Application Checklist",
+      "org": "STEMBridge Library",
+      "deadline": "Available now",
+      "tags": ["Resource", "Scholarship", "Templates"],
+      "description": "A practical checklist for essays, transcripts, recommendation letters, deadlines, and follow-ups."
+    },
+    {
+      "type": "hackathon",
+      "title": "Build for Good Hackathon",
+      "org": "STEMBridge Community",
+      "deadline": "18 Jul 2026",
+      "tags": ["Hackathon", "Social Impact", "Team"],
+      "description": "A weekend challenge for students to build useful STEM tools with mentor office hours and demo reviews."
+    }
+  ],
+  "deadlines": [
+    {
+      "type": "internship",
+      "title": "Google Summer of Code",
+      "org": "Google",
+      "deadline": "15 Jul 2026",
+      "tags": ["Deadline", "Internship", "3 days left"],
+      "description": "Finalize your proposal, project preference, and contributor profile before the submission window closes."
+    },
+    {
+      "type": "internship",
+      "title": "Microsoft Learn Program",
+      "org": "Microsoft",
+      "deadline": "30 Jun 2026",
+      "tags": ["Deadline", "Internship", "18 days left"],
+      "description": "Complete the student profile, learning goals, and community activity details for the program application."
+    },
+    {
+      "type": "mentorship",
+      "title": "GirlScript Summer of Code",
+      "org": "GirlScript Foundation",
+      "deadline": "10 Jul 2026",
+      "tags": ["Deadline", "Mentorship", "7 days left"],
+      "description": "Prepare your open-source interests, GitHub profile, and mentor preference before applications close."
+    },
+    {
+      "type": "scholarship",
+      "title": "AWS Scholarship Program",
+      "org": "Amazon Web Services",
+      "deadline": "20 Jul 2026",
+      "tags": ["Deadline", "Scholarship", "12 days left"],
+      "description": "Finish the eligibility form, learning-track selection, and short statement for cloud scholarship review."
+    },
+    {
+      "type": "hackathon",
+      "title": "Build for Good Hackathon",
+      "org": "STEMBridge Community",
+      "deadline": "18 Jul 2026",
+      "tags": ["Deadline", "Hackathon", "Team forming"],
+      "description": "Register your team, choose a social-impact challenge, and reserve a mentor office-hour slot."
+    },
+    {
+      "type": "resource",
+      "title": "Scholarship Essay Review",
+      "org": "STEMBridge Mentors",
+      "deadline": "25 Jul 2026",
+      "tags": ["Deadline", "Resource", "Review slot"],
+      "description": "Book an essay review slot and upload your draft early for personalized scholarship feedback."
+    }
+  ],
+  "users": [],
+  "saved": []
+}
